@@ -1,0 +1,8 @@
+.applications-components-HeaderApp-components-Search-option-module__option{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-pack:justify;-ms-flex-pack:justify;justify-content:space-between;padding:10px 20px}.applications-components-HeaderApp-components-Search-option-module__optionFocused{background:#dfe0e0;cursor:pointer}.applications-components-HeaderApp-components-Search-option-module__type{border-radius:4px;font-weight:900;text-transform:uppercase;font-size:13px;padding:2px 6px;color:#fff}.applications-components-HeaderApp-components-Search-option-module__typeExistingDesign{background:#949899}.applications-components-HeaderApp-components-Search-option-module__typeOwnDesign{background:#3cb868}
+
+.applications-components-HeaderApp-components-Search-search-module__container{position:relative;-webkit-box-flex:1;-ms-flex:1 1 auto;flex:1 1 auto;margin-right:10px}@media screen and (min-width: 940px){.applications-components-HeaderApp-components-Search-search-module__container{margin-right:30px}}@media screen and (min-width: 1240px){.applications-components-HeaderApp-components-Search-search-module__container{margin-right:60px}}.applications-components-HeaderApp-components-Search-search-module__icon{position:absolute;z-index:1;top:8px;left:15px;color:#3f4547}
+
+.applications-components-CustomStoreHeaderApp-custom-store-header-module__menu{position:relative;margin-bottom:48px}.applications-components-CustomStoreHeaderApp-custom-store-header-module__menu>div{position:relative !important}.applications-components-CustomStoreHeaderApp-custom-store-header-module__hide-on-mobile{display:none}
+
+
+/*# sourceMappingURL=header-5d7103c58df654e2f2c0.css.map*/
